@@ -1,0 +1,34 @@
+.color-body {
+  height: 115vh;
+  background-color: #f8f8f8;
+}
+.font {
+  font-family: "Almarai", sans-serif;
+  font-size: 20px;
+}
+.rectangle {
+  height: 500px;
+  border-radius: 15px;
+  background-color: white;
+  box-shadow: 1px 4px 4px 1px rgba(85, 85, 85, 0.25);
+}
+.date-count {
+  color: #555555;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+.btn-style {
+  width: 200px;
+  border-radius: 8px;
+  color: white;
+  background-color: #224f61;
+  border: none;
+}
+.img-avatar {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+}
+.date-color {
+  color: #7b120f;
+}
